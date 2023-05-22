@@ -1,1 +1,1 @@
-Add TF SavedModel Docs Integrations Page (#9162)
+Update TFLite Docs images (#8605)
