@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
