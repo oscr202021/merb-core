@@ -1,1 +1,1 @@
-Add OBB models to GITHUB_ASSET_NAMES (#7425)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
