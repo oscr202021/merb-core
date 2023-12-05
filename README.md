@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Rename model_id to model.id (#8447)
