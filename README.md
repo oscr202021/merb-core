@@ -1,1 +1,1 @@
-fix non-coco val
+Fix ONNX GPU inference bug (#6840)
