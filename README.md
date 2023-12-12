@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
