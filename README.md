@@ -1,1 +1,1 @@
-Add Ultralytics HUB Cloud Training banner to Docs (#8656)
+Add docs links to all dataset YAMLs (#7360)
