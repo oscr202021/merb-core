@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
