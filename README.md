@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Update mkdocs.yml (#7693)
