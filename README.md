@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
