@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Compare plt.get_backend() in lowercase (#8409)
