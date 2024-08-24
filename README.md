@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Add settings runs_dir == datasets_dir warning (#8653)
