@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
